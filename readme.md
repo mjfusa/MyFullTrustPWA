@@ -25,9 +25,3 @@ This was necessary since a requirement was to launch from pre-install - before t
 The app is Full Trust, with a custom protoco and full trust process defined. See package.appxmanifest.
 
 Note addition of <build> section to appxmanifest, this was workaround to a problem with full trust apps require special build handling - this is done if the app is packaged with a Desktop Packaging Project - however, PWAs can't be adding to packaging projects since they require only projects with EXE output to be added.
-
-
-
-
-
-
