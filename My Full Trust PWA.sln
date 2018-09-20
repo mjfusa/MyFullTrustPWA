@@ -11,6 +11,7 @@ Project("{262852C6-CD72-467D-83FE-5EEB1973A190}") = "MyPWA", "MyUWP1.Package\MyP
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9576639E-E02D-4D9C-A8C7-C19C2801CDB4}"
 	ProjectSection(SolutionItems) = preProject
+		pkg.cmd = pkg.cmd
 		readme.md = readme.md
 	EndProjectSection
 EndProject
